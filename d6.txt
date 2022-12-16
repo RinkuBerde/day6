@@ -1,1 +1,3 @@
-rinku
+rinku berde
+hello GM,
+  welcome to gitbash
